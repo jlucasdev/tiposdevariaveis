@@ -1,0 +1,7 @@
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.exe.config
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.exe
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.pdb
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.csproj.AssemblyReference.cache
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.csproj.CoreCompileInputs.cache
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.exe
+E:\projetos\tipos_de_variaveis\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.pdb
